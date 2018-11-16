@@ -1,1 +1,1 @@
-This is the intro of my team!
+As an important part of the TRON ecosystem, TRON Alliance is derived from the TRON community, dedicated to helping TRON to apply its blockchain solutions to the field of enterprise services. We already have a few enterprises on board.
